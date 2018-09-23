@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         boolean Fuck = true;
         ///=============================
         int y = 100;
+        int x=200;
     }
 }
