@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         ///=============================
         int y = 100;
         int x=200;
+        int z;
     }
 }
