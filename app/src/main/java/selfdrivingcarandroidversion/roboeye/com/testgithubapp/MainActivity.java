@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         boolean Fuck = true;
         ///=============================
         int y = 100;
-        //ياسطا مش هينفع كده
+        //ياسطا مش هينفع كدهها
         int x=200;
         int z;
     }
